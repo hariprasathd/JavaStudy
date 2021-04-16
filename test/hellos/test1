@@ -1,0 +1,13 @@
+1. Create a User in your name. (Don‟t use Copy option to create the User)
+2. Create a VOC for your User
+3. Restrict your User to access only "SG0010001" company
+4. Restrict your User to access only "ACCOUNT" and "CUSTOMER" file
+5. Restrict your user to access Input & Authorisation i.e. I & A function
+6. Then Create Customer with your name. You will be using this customer for the
+transactions.
+7. Create ACCOUNT
+a. USD Savings and Current
+b. EUR Savings and Current
+c. GBP savings and Current
+8. Create another Customer 
+9. Create customer account for Customer created in Step 8 (SGD)
